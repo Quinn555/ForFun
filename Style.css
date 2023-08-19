@@ -27,22 +27,22 @@ a:hover{
     color: rgb(255, 255, 255);
 }
 
-.Color1:hover{
+.Color:hover{
     text-decoration: underline;
     color: rgb(255, 198, 129);
     font-size: xx-large;
 }
-.Color2:hover{
+.Color1:hover{
     text-decoration: underline;
     color: rgb(112, 255, 55);
     font-size: xx-large;
 }
-.Color3:hover{
+.Color2:hover{
     text-decoration: underline;
     color: rgb(255, 50, 50);
     font-size: xx-large;
 }
-.Color4:hover{
+.Color3:hover{
     text-decoration: underline;
     color: rgb(246, 255, 81);
     font-size: xx-large;
