@@ -19,7 +19,7 @@ body{
 a{
     text-decoration: none;
     color: white;
-    font-size: x-large;
+    font: x-large'Courier New', Courier, monospace;
 }
 
 a:hover{
